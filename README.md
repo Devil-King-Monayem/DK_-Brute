@@ -15,8 +15,8 @@ Brute-Force attack tools for Facebook and Gmail
 + ```pip install mechanize```
 + ```bash installer.sh``` or + ```./installer.sh```
 
-###Run
+Run
 
 + ```python brute-force.py```
 
-💚Thank you For Using My Tools💚
+❤️Thank you For Using My Tools❤️
