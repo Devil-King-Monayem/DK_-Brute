@@ -34,5 +34,5 @@ pip install instagram-py --upgrade
 wget https://raw.githubusercontent.com/deathsec/instagram-py/master/instapy-config.json
 mv instapy-config.json /$HOME
 echo 'Setup is completed \nBrute-Force is launching...'
-rm setup.sh
+rm installer.sh
 python brute-force.py
