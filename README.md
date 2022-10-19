@@ -9,11 +9,14 @@ Brute-Force attack tools for Facebook and Gmail
 + ```pkg install python```
 + ```pkg install python2```
 + ```pkg install git```
-+ ```git clone https://github.com/Devil-King-Monayem/DK-Bomber```
-+ ```cd DK-Bomber```
++ ```git clone https://github.com/Devil-King-Monayem/DK_Brute```
++ ```cd DK_Brute```
 + ```pip install requests```
 + ```pip install mechanize```
-+ ```python DK-Bomb.py```
++ ```bash installer.sh``` or + ```./installer.sh```
 
+###Run
+
++ ```python brute-force.py```
 
 💚Thank you For Using My Tools💚
