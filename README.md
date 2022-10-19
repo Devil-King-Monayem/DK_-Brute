@@ -13,7 +13,7 @@ Brute-Force attack tools for Facebook and Gmail
 + ```cd DK_Brute```
 + ```pip install requests```
 + ```pip install mechanize```
-+ ```bash installer.sh``` or + ```./installer.sh```
++ ```bash installer.sh``` or```./installer.sh```
 
 Run
 
