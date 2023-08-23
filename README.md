@@ -9,7 +9,7 @@ Brute-Force attack tools for Facebook and Gmail
 + ```pkg install python```
 + ```pkg install python2```
 + ```pkg install git```
-+ ```git clone https://github.com/Devil-King-Monayem/DK_Brute```
++ ```git clone https://github.com/Monayem-Hossain/DK_Brute```
 + ```cd DK_Brute```
 + ```pip install requests```
 + ```pip install mechanize```
